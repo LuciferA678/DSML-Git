@@ -1,4 +1,4 @@
 This is my first file created in  local fro this project
 "Github account - dowloaded - Guithub Deskstop -  Created a local repo"
-A branch
-changes
+This new line is only added to branch
+main/master file is not affected - has 2 line only
